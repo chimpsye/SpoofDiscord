@@ -35,7 +35,6 @@ struct DiscordSpooferApp: App {
             
         } label: {
             // --- ÜST BARDA GÖRÜNECEK İKON ---
-            // Assets'e attığın 'AnimeIcon' görselini burada kullanıyoruz
             // iconRenderingMode(.original) renklerin bozulmamasını sağlar
             Image("AnimeIcon")
                 .resizable()
