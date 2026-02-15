@@ -11,7 +11,7 @@ struct DiscordSpooferApp: App {
             // --- AÇILIR MENÜ İÇERİĞİ ---
             
             // 1. Durum Göstergesi
-            Text(isRunning ? "Durum: AKTİF (Discord Açık) 🟢" : "Durum: KAPALI 🔴")
+            Text(isRunning ? "Durum: AKTİF (Discord Açık)" : "Durum: KAPALI")
             
             Divider()
             
