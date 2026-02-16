@@ -1,12 +1,16 @@
 # DiscordSpoofer
 
-Özellik,Durum,Not
-İşlemci,Apple Silicon (M1/M2/M3),Tam Destek (Tested)
-İşlemci,Intel,Desteklemiyor (Yol hatası verir)
-macOS,13.0+ (Ventura/Sonoma/Sequoia),Tam Destek
-macOS,12.0 ve altı,Çalışmaz (API yetersiz)
-
 > Discord engelini aşan, macOS Menu Bar için tasarlanmış minimalist bir araç.
+
+### Sistem Gereksinimleri
+
+| Özellik | Durum | Not |
+| :--- | :--- | :--- |
+| **İşlemci** | Apple Silicon (M1/M2/M3/M4) | M1 ile test edildi, tüm seri mimari olarak uyumlu |
+| **İşlemci** | Intel | Desteklenmiyor (Yol hatası verir) |
+| **macOS** | 13.0+ (Ventura/Sonoma/Sequoia) | Ventura ve üzeri sürümler gereklidir |
+| **macOS** | 12.0 ve altı | Çalışmaz |
+
 <img width="231" height="136" alt="Ekran Resmi 2026-02-16 01 35 46" src="https://github.com/user-attachments/assets/b2ecfe9a-edf6-42a2-ac1b-2c69814aed77" />
 
 
