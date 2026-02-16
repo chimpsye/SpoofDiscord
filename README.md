@@ -1,5 +1,11 @@
 # DiscordSpoofer
 
+Özellik,Durum,Not
+İşlemci,Apple Silicon (M1/M2/M3),Tam Destek (Tested)
+İşlemci,Intel,Desteklemiyor (Yol hatası verir)
+macOS,13.0+ (Ventura/Sonoma/Sequoia),Tam Destek
+macOS,12.0 ve altı,Çalışmaz (API yetersiz)
+
 > Discord engelini aşan, macOS Menu Bar için tasarlanmış minimalist bir araç.
 <img width="231" height="136" alt="Ekran Resmi 2026-02-16 01 35 46" src="https://github.com/user-attachments/assets/b2ecfe9a-edf6-42a2-ac1b-2c69814aed77" />
 
