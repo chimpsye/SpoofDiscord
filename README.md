@@ -29,5 +29,6 @@
 
 Bu uygulama, arka planda `spoofdpi` aracını çalıştırarak DPI (Deep Packet Inspection) engellerini aşar. Swift ve AppleScript kullanılarak yazılmıştır.
 
+> İkonlar pinterestten alınmıştır isimlerini bulamadığım için credit veremiyorum. <3
 ---
 *Developed by [Chimpsye](https://github.com/chimpsye)*
