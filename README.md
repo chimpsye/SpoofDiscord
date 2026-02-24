@@ -36,6 +36,7 @@ Bu uygulama, arka planda `spoofdpi` aracını çalıştırarak DPI (Deep Packet 
 
 ### Credits
 Bu uygulama arka planda paket manipülasyonu için [SpoofDPI](https://github.com/xvzc/SpoofDPI) kullanmaktadır. Core mekanik için asıl geliştiricilere teşekkürler.
+
 This application uses [SpoofDPI](https://github.com/xvzc/SpoofDPI) in the background for packet manipulation. Huge thanks to the original developers for the core mechanics.
 
 **Developed by [Chimpsye](https://github.com/chimpsye)**
