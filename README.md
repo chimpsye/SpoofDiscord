@@ -20,6 +20,8 @@
 
 ## Kurulum
 
+**Önemli: Bu uygulamanın çalışması için sisteminizde spoofdpi kurulu olmalıdır. Terminale brew install spoofdpi yazarak kurabilirsiniz.**
+
 1.  **Releases** kısmından son sürümü indirin.
 2.  Uygulamayı `Applications` klasörüne sürükleyin.
 3.  Açın, üst barda ikon belirecek.
@@ -31,4 +33,9 @@ Bu uygulama, arka planda `spoofdpi` aracını çalıştırarak DPI (Deep Packet 
 
 > İkonlar pinterestten alınmıştır isimlerini bulamadığım için credit veremiyorum. <3
 ---
-*Developed by [Chimpsye](https://github.com/chimpsye)*
+
+### Credits
+Bu uygulama arka planda paket manipülasyonu için [SpoofDPI](https://github.com/xvzc/SpoofDPI) kullanmaktadır. Core mekanik için asıl geliştiricilere teşekkürler.
+This application uses [SpoofDPI](https://github.com/xvzc/SpoofDPI) in the background for packet manipulation. Huge thanks to the original developers for the core mechanics.
+
+**Developed by [Chimpsye](https://github.com/chimpsye)**
